@@ -1,73 +1,66 @@
-# Welcome to your Lovable project
+# Oxygen Oasis 🌿
 
-## Project info
+**Breathe Easier with Premium Oxygen Solutions**  
+Your trusted source for high-quality oxygen concentrators and respiratory equipment for enhanced quality of life.
 
-**URL**: https://lovable.dev/projects/be3413f4-2440-443b-ae4e-9a7c0217abd2
+---
 
-## How can I edit this code?
+## 🌐 Live Demo
 
-There are several ways of editing your application.
+[Visit the Website](#) *(Add your deployed link here)*
 
-**Use Lovable**
+## 📋 Table of Contents
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/be3413f4-2440-443b-ae4e-9a7c0217abd2) and start prompting.
+- [About](#about)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Project Structure](#project-structure)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🫧 About
 
-**Use your preferred IDE**
+**Oxygen Oasis** is a modern, accessible website dedicated to providing users with trusted information and premium products in the field of oxygen concentrators and respiratory equipment. Our goal is to improve the quality of life by making respiratory care products easily discoverable and accessible.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+## ✨ Features
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+- Clean, responsive multi-page design  
+- Interlinked navigation across Home, About, Services, and Contact pages  
+- Attractive keyframe animations and hover effects  
+- Clear product and service descriptions  
+- Embedded map for locating services  
+- Contact form for inquiries
 
-Follow these steps:
+## 🛠 Tech Stack
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+- **Frontend:** HTML5, CSS3, JavaScript  
+- **Styling Framework:** Bootstrap  
+- **Animations:** CSS Keyframes & Transitions
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📂 Project Structure
 
-# Step 3: Install the necessary dependencies.
-npm i
+oxygen-oasis/
+├── index.html
+├── about.html
+├── services.html
+├── contact.html
+├── /css
+│ └── styles.css
+├── /js
+│ └── script.js
+└── /images
+└── (all images)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+ Contributing
+Contributions are welcome! If you'd like to improve features, fix bugs, or suggest enhancements, feel free to fork the repository and submit a pull request.
 
-**Edit a file directly in GitHub**
+Fork the Project
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
 
-**Use GitHub Codespaces**
+Commit your Changes (git commit -m 'Add some AmazingFeature')
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+Push to the Branch (git push origin feature/AmazingFeature)
 
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/be3413f4-2440-443b-ae4e-9a7c0217abd2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
+Open a Pull Request.
